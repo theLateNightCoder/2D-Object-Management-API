@@ -15,5 +15,5 @@ Het project is opgebouwd met een vertical slice architectuur, waarbij elke funct
 - ASP.NET Core Web API
 - Dapper
 - Identity Core 
-- HTTPS (
+- HTTPS
 - C#
